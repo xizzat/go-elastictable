@@ -1,7 +1,7 @@
 package elastictable
 
 import (
-	"github.com/tgulacsi/wrap"
+	"github.com/tgulacsi/go/wrap"
 	"strings"
 	"unicode/utf8"
 )
